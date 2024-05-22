@@ -1,7 +1,7 @@
 # Custom
 *.parquet
 nli_fever/
-
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
