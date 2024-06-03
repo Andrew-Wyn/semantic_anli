@@ -1,6 +1,10 @@
 # Custom
 *.parquet
 nli_fever/
+.hf_cache/
+
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
