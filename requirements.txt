@@ -1,0 +1,6 @@
+tqdm 
+rich 
+polars
+transformers
+sentencepiece 
+protobuf
